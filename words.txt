@@ -1,0 +1,4 @@
+computer
+telephone
+airplane
+laptop
